@@ -3,7 +3,7 @@ Markdown
 
 [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-38bdf8?style=for-the-badge&logo=github)](https://yasir175-bit.github.io/portfolio/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-gray?style=for-the-badge)](LICENSE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasir-irshad-sheikh-ab655b353)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasir-irshad-sheikh-ya17sir)
 
 A responsive, interactive personal portfolio website designed and built from scratch with a modern dark slate UI, glowing micro-interactions, smooth scroll reveal animations, and a direct-to-inbox contact integration.
 
